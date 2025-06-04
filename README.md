@@ -33,5 +33,5 @@ A beautiful, responsive currency converter built with **React**, **Tailwind CSS*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/code-shubhambhatt/currency-convertor.git
 cd your-repo-name
